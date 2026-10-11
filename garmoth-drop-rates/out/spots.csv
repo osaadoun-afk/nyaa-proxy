@@ -1,0 +1,96 @@
+spot_id,spot,zone,ap,dp,sessions,hours,weeks,trash_item,base_trash_hr,flag
+1,(OLD) Sycraia (Lower),balenos,240,330,66,78.2,25,Underwater Ancient Weapon Power Stone,4135.6,
+32,(OLD) Sycraia (Upper),balenos,200,260,168,357.2,23,Destroyed Ancient Weapon Power Stone,16396,
+6,Aakman Temple,valencia,230,300,62,68.0,28,Aakman Guardian's Token,7885.3,
+11,Abandoned Monastery,calpheon,260,350,10,17.5,8,Shadow Knight's Armor Ornament,4502.8,low sample
+183,Aetherion Castle,edania,350,427,24341,28593.7,53,Chilled Soul Piece,5688.5,
+13,Altar Imp Habitat,serendia,220,310,114,144.7,35,Covetous Eye,5808.8,
+213,Aphrodon Temple,edania,400,470,20253,28606.4,5,Branch of Abundance,6196.8,
+216,Aresion Temple,edania,415,495,12087,19638.0,5,Scorched Belt Ornament,6429.9,
+27,Ash Forest,kamasylvia,300,390,465,548.2,48,Specter's Cloth,9462.9,
+84,Bashim Base,valencia,100,180,15,13.1,9,Bashim Mane,5383.6,low sample
+89,Basilisk Den,valencia,180,220,9,14.7,5,Basilisk Scale,5668,low sample
+12,Biraghi Den,serendia,220,310,129,159.1,39,Proof of Reckless Courage,6695.3,
+22,Blood Wolf Settlement,drieghan,180,210,306,328.7,52,Blood Wolf Mane,5007.6,
+18,Bloody Monastery,serendia,260,340,141,148.8,43,Proof of Blind Faith,5865.5,
+86,Cadry Ruins,valencia,140,160,72,92.9,34,Cadry's Token,4420.8,
+16,Castle Ruins,serendia,230,320,17,29.2,10,Mark of Desperate Rebels,5069.4,low sample
+90,Centaurus Herd,valencia,180,200,54,56.0,27,Centaurus Mane,5368.2,
+147,City of the Dead,ulukita,320,380,377,449.1,18,Mark of the Black Sands,9711.6,
+85,Crescent Shrine,valencia,140,160,5,10.0,4,Token of Crescent,11172,low sample
+8,Crypt of Resting Thoughts,odyllita,300,400,1237,1520.7,53,Abyssal Ash,6186.6,
+208,Dark Energy Floodlands (Great Red Sea),edania,385,450,966,1123.4,30,Tainted Armor Fragment,7298.6,
+209,Dark Energy Floodlands (Orbita),edania,385,450,1426,1635.0,30,Tainted Armor Fragment,7405.3,
+210,Dark Energy Floodlands (Zephyros),edania,385,450,683,848.1,27,Tainted Armor Fragment,7736.1,
+153,Darkseeker's Retreat,ulukita,340,430,4671,5433.8,7,Decayed Cloth,9928,
+82,Desert Naga Temple,valencia,100,180,30,37.6,15,Desert Naga's Webfoot,3735.8,low sample
+166,Dokkebi Forest,morninglight,335,420,735,939.0,7,Discarded Kkebicap,8387.6,
+218,Event Horizon,edania,420,505,12642,22237.8,6,Broken Gloves of the Void,6451,
+38,Fadus Habitat,kamasylvia,120,180,42,43.6,25,Fadus Armor Fragment,9456.3,low sample
+26,Forest Ronaros Area,kamasylvia,240,270,109,105.2,40,Hoof of Forest Ronaros,5148.5,
+167,Fortunate Golden Pig Cave,morninglight,345,438,363,343.9,7,Shiny Treasure,8101.5,
+43,Gahaz Bandit's Lair,valencia,140,180,36,35.7,18,Gahaz Seal,4316.1,low sample
+212,Gavinya Coastal Cliff,valencia,400,470,973,1201.7,5,Sulfur Golem Fragment,6222.2,
+33,Gyfin Rhasia Temple,kamasylvia,250,320,14,16.5,14,Fragment of Bronze Artifact,8901.2,low sample
+97,Gyfin Rhasia Underground,kamasylvia,290,380,3515,4422.2,53,Bronze Fragment of Delusion,9964.7,
+214,Hermesia Inner Castle,edania,405,485,7616,10705.5,3,Black Crystal Fragment,6661,
+124,Hexe Sanctuary,calpheon,300,390,33871,36644.7,53,Howling Bone Fragment,11493,
+165,Honglim Base,morninglight,270,360,196,215.4,7,Faded Bandit Mask,11005,
+3,Hystria Ruins,valencia,230,300,143,164.6,42,Hystria Ruins Fragment,4457.6,
+110,Jade Starlight Forest,snowmountain,270,350,2201,2447.5,53,Starlit Jade Powder,9588,
+9,Kratuga Ancient Ruins,mediah,230,300,57,69.9,29,Iridescent Rock Piece,14241,
+215,Magaia Temple,edania,410,490 ,24090,32934.8,5,Elion Follower's Helmet,6400,
+25,Manshaum Forest,kamasylvia,190,260,89,105.0,41,Narc Magic Mark,5566.4,
+28,Mirumok Ruins,kamasylvia,190,270,136,152.1,39,Degraded Wood Fragment,5539.7,
+111,Murrowak's Labyrinth,snowmountain,260,350,167,206.9,43,Decomposed Exocrine Gland,11248,
+184,Nymphamare Castle,edania,370,440,26217,30958.7,53,Contaminated Coral Piece,5774.9,
+5,Olun's Valley,odyllita,290,380,287,336.1,45,Golem's Heart Fragment,2511.1,
+185,Orbita Castle,edania,380,445,42016,54468.5,53,Lightlost Core,6136,
+17,Orc Camp,serendia,260,340,1751,1863.4,53,Oily Orange Mushroom,8639.2,
+10,Padix Island,calpheon,250,340,970,1698.1,53,Outlaw's Mark,8794.9,
+92,Pila Ku Jail,valencia,190,240,37,76.5,24,Warder's Token Piece,3275,
+29,Polly's Forest,kamasylvia,140,250,134,134.1,39,Mushroom Hypha,9206.5,
+120,Primal Giant Post,calpheon,280,380,842,1002.1,52,Scornful Spear,9178.5,
+37,Protty Cave,balenos,170,200,16,21.8,9,Protty Fin,7523.7,low sample
+121,Quint Hill,calpheon,320,400,2609,3277.2,53,Fiery Troll Hide,3855.9,
+122,Rhutum Outstation,calpheon,260,360,138,155.7,34,Gnawing Rhutum Fang,8332.7,
+91,Roud Sulfur Mine,valencia,190,240,62,94.8,26,Sulfur Fragment,3311.5,
+123,Saunil Camp,calpheon,250,330,212,247.5,36,Icy Armor Fragment,8187.7,
+217,Scales of Judgment,edania,415,500,1082,1408.0,5,Elion Follower's Mark,6716.5,
+23,Sherekhan (Day),drieghan,190,230,167,156.5,42,Token of Bravery,7438.9,
+119,Sherekhan (Night),drieghan,210,230,15,9.1,12,Medal of Bravery,1931.7,low sample
+200,Star's End,calpheon,395,460,412,568.0,7,Corrupted Sanguine Crystal,5582.1,
+14,Swamp Fogan Habitat,serendia,240,330,628,679.8,51,Hardened Casque,7046.6,
+15,Swamp Naga Habitat,serendia,240,330,143,149.9,34,Bruised Naga Fin,5975.7,
+201,Sycraia Ruins Lower Zone,balenos,395,460,1821,2213.1,7,Underwater Ancient Weapon Power Stone,5087.7,
+202,Sycraia Ruins Upper Zone,balenos,300,400,503,811.1,29,Destroyed Ancient Weapon Power Stone,9989.4,
+193,Tenebraum Castle,edania,390,450,50947,74809.2,53,Ancient Soldier Fragment,6300.1,
+7,Thornwood Forest,odyllita,230,320,146,160.2,46,Moonlight Spirit Powder,6422.3,
+83,Titium Valley,valencia,100,180,14,17.4,12,Desert Fogan's Helmet Shard,4172.7,low sample
+72,Traitor's Graveyard,calpheon,200,250,32,34.3,20,Shard of the Vengeful Undead,9953.6,low sample
+24,Tshira Ruins,drieghan,140,160,53,47.7,30,Swamp Leaves,5624.8,low sample
+148,Tungrad Ruins,ulukita,330,410,42820,51785.1,53,Tungrad Ruins Fragment,14309,
+4,Tunkuta,odyllita,250,360,205,211.4,46,Broken Horn Fragment,4572.4,
+168,Unlucky Golden Pig Cave,morninglight,345,438,167,143.2,36,Shattered Treasures,8613,
+2,Vessel of Inquisition,calpheon,240,320,33,42.2,19,Sanguine Crystal of Despair,3987.4,low sample
+117,Vessel of Inquisition Pillars,calpheon,240,360,50,61.6,16,Sanguine Crystal of Despair,5405.6,
+88,Waragon Nest,valencia,150,220,2,2.0,2,Stone Waragon Hide,23487,low sample
+149,Winter Tree Fossil (280),snowmountain,260,350,6,5.9,6,Winter Tree Snow Crystal,23032,low sample
+157,Yzrahid Highlands,ulukita,310,420,1319,1455.1,7,Corrupt Power Source,15279,
+194,Zephyrus Castle,edania,395,460,4627,5377.4,7,Hardened Lava Chunk,7901.4,
+162,[Dehkia 2] Ash Forest,kamasylvia,345,430,8325,11701.4,53,Tainted Specter's Cloth,9677,
+161,[Dehkia 2] Olun's Valley,odyllita,340,430,5896,7807.3,53,Tainted Golem's Heart Fragment,4009.4,
+155,[Dehkia] Aakman Temple,valencia,300,400,1142,1647.0,53,Tainted Aakman's Token,8375,
+143,[Dehkia] Ash Forest,kamasylvia,325,410,1477,1896.3,53,Tainted Specter's Cloth,7711.6,
+163,[Dehkia] Cadry Ruins,valencia,330,400,626,698.8,52,Tainted Cadry's Token,10574,
+160,[Dehkia] Crescent Shrine,valencia,325,400,310,364.4,42,Tainted Token of Crescent,10019,
+151,[Dehkia] Cyclops Land,calpheon,310,400,173,173.0,43,Tainted Huge Spear,5008.5,
+198,[Dehkia] Gyfin Rhasia Temple (Upper),kamasylvia,325,400,1495,1673.3,38,Tainted Bronze Fragment,5829.1,
+156,[Dehkia] Hystria Ruins,valencia,300,400,5697,7816.2,53,Tainted Ruins Fragment,8667.6,
+199,[Dehkia] Mirumok Ruins,kamasylvia,325,400,3367,3843.8,39,Tainted Wood Fragment,6554.8,
+144,[Dehkia] Olun's Valley,odyllita,325,400,45,43.8,27,Tainted Golem's Heart Fragment,1652.4,low sample
+159,[Dehkia] Pila Ku Jail,valencia,300,400,1962,2583.9,53,Tainted Token Piece,7802.2,
+158,[Dehkia] Roud Sulfur Mine,valencia,300,400,3402,4403.4,53,Tainted Sulfur Fragment,9238.2,
+146,[Dehkia] Thornwood Forest,odyllita,310,400,4420,5359.6,53,Tainted Moonlight Spirit Powder,8193.2,
+145,[Dehkia] Tunkuta,odyllita,310,400,381,401.6,50,Tainted Broken Horn Fragment,7208.9,
+169,[Elvia] Orzekea,odyllita,350,440,1795,2242.4,7,Thorn-Entwined Weapon Fragment,6829.8,
